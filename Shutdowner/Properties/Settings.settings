@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Shutdowner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Hours" Type="System.String" Scope="User">
+      <Value Profile="(Default)">05</Value>
+    </Setting>
+    <Setting Name="Minutes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00</Value>
+    </Setting>
+    <Setting Name="SettingTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2021-06-29</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
